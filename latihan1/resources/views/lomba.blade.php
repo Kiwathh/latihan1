@@ -25,7 +25,7 @@
                 <input type="text" class="form-control" name="judul" required>
             </div>
             <div class="form-group">
-                <label for="profile_photo">Poster Photo:</label>
+                <label for="poster_photo">Poster Photo:</label>
                 <input type="file" class="form-control-file" name="poster_photo" required>
             </div>
             <button type="submit" class="btn btn-primary">Save</button>
